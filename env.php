@@ -1,5 +1,6 @@
 <?php
-
+// 本来であれば公開してはいけないファイル
+// 学習用のため今回だけ割愛
 const DB_CONNECTION = 'mysql';
 const DB_HOST = 'localhost';
 const DB_PORT = '3306';
